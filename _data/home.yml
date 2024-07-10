@@ -1,6 +1,6 @@
 navbar_entries:
   - title: HOME
-    url: home
+    url: https://abijithpandath.github.io/portfolio.io/
 
   - title: ABOUT
     file: "assets/abijith-pandath-resume.pdf"
