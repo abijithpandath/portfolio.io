@@ -54,14 +54,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Abijith's homepage
+    url: https://github.com/abijithpandath/portfolio.io/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/abijithpandath
 
   - title: feed
     url: feed.xml
@@ -77,7 +74,7 @@ misc_entries:
     url: false
 
   - title: Blog posts
-    post_list: true
+    post_list: false
     url: false
 
   - title: moonwalk on the Internet
