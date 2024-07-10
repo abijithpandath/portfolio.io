@@ -1,11 +1,11 @@
 navbar_entries:
-  - title: ABOUT
-    url: false
+  - title: HOME
+    url: home
 
-  - title: CV
+  - title: ABOUT
     file: "assets/abijith-pandath-resume.pdf"
 
-  - title: website
+  - title: CERTIFICATIONS
     url: https://www.abhinav.co
 
 project_entries:
