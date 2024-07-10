@@ -4,7 +4,8 @@ url: https://github.com/abijithpandath/portfolio.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   Having graduated with a Master’s degree in Data Science from Coventry University, I specialize in leveraging data analytics and machine learning to derive actionable business insights. I am looking for data-focused roles in the technology and consulting industries. I have the right to work in UK.
   <br> Achieved hands-on experience in cutting-edge technologies like Machine Learning, Big Data Analytics and Data Visualization through various academic assessments, projects and virtual internships from JP Morgan Chase&Co and British Airways. My journey has equipped me with demonstrable skills in Python, R, SQL, and Tableau, enabling me to analyze data effectively and derive actionable insights.
-
+navigation:
+  -{file: "abijith-pandath-resume.pdf", title: "CV"}
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
