@@ -3,8 +3,10 @@
 **[LinkedIn](https://www.linkedin.com/in/abijithpandath/)** |
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
 
-#### TECHNICAL SKILLS
+## TECHNICAL SKILLS
+
 >- #### Programming Languages & Tools:<br>
+
 > #### Excel:
 Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation.<br>
 
