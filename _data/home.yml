@@ -3,7 +3,7 @@ navbar_entries:
     url: https://abijithpandath.github.io/portfolio.io/
 
   - title: ABOUT
-    url: _posts/2023-07-10-about-me.md
+    url: /_posts/2023-07-10-about-me.md
 
   - title: CERTIFICATIONS
     url: https://www.abhinav.co
