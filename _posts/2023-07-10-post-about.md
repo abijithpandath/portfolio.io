@@ -18,8 +18,8 @@ ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Databas
 Data Visualization, Dashboard Design, Mapping, Performance optimization, Storytelling.<br>
 
 ## EDUCATION					       		
--> |(_2023-2024_) |  M.S Data Science                      |  Coventry University, United Kingdom                   |
--> |(_2016-2020_) |B Tech Computer Science and Engineering |  APJ Abdul Kalam Kerala Technological University, India|
+> |(_2023-2024_) |  M.S Data Science                      |  Coventry University, United Kingdom                   |
+> |(_2016-2020_) |B Tech Computer Science and Engineering |  APJ Abdul Kalam Kerala Technological University, India|
 
 
 ## VIRTUAL INTERNSHIP EXPERIENCE
