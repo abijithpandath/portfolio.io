@@ -8,31 +8,31 @@ navbar_entries:
   - title: CERTIFICATIONS
     url: post-certifications
 project_entries:
-  - title: EXCEL
+  - title: Predictive Modeling 
     url: overview-post
-    desc: Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation. 
+    desc: Exploratory Data Analysis, Data Preprocessing, Model Training, Model Evaluation. 
 
-  - title: SQL
+  - title: Road Traffic Accident Analysis Using Machine Learning Algorithms 
     url: overview-post
-    desc: ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management.
+    desc: Decision Tree, Random Forest and SVM
 
-  - title: PYTHON
+  - title: Beetle Game Using Control Structures in Python
     url: overview-post
-    desc: Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Seaborn, TensorFlow, Stats models.
+    desc:  Fundamental Python programming concepts, Control Structures.
+
+  - title: Vertical Search Engine
+    url: overview-post
+    desc: Web Crawling, Web Scrapping, Feedback oriented
+    
 
   - title: TABLEAU
     url: overview-post
     desc: Data Visualization, Dashboard Design, Mapping, Performance optimization, Storytelling.
-    highlight: WIP
+    
 
-  - #title: Machine Learning
-    #url: overview-post
-    #desc: Algorithms, Forecasting , Prediction
-    #highlight: WIP
-
-  - #title: Project 6
-    #url: overview-post
-    #desc: It also has a scalable vertical list (in case you need it)
+  - title: Excel
+    url: overview-post
+    desc: Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation.
 
 
 footer_entries:
