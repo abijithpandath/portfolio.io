@@ -25,14 +25,14 @@ project_entries:
     desc: Data Visualization, Dashboard Design, Mapping, Performance optimization, Storytelling.
     highlight: WIP
 
-  - title: Machine Learning
-    url: overview-post
-    desc: Algorithms, Forecasting , Prediction
-    highlight: WIP
+  - #title: Machine Learning
+    #url: overview-post
+    #desc: Algorithms, Forecasting , Prediction
+    #highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - #title: Project 6
+    #url: overview-post
+    #desc: It also has a scalable vertical list (in case you need it)
 
 
 footer_entries:
