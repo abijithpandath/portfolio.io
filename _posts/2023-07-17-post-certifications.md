@@ -1,5 +1,5 @@
 ## CERTIFICATIONS
-> Chartered Management Institute - Level 7 Certificate in Strategic Management and Leadership Practice
+> Chartered Management Institute -<br> Level 7 Certificate in Strategic Management and Leadership Practice
 
 > Cisco Networking Academy - Data Analytics Essentials
 
