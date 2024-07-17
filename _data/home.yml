@@ -6,8 +6,7 @@ navbar_entries:
     url: post-about
 
   - title: CERTIFICATIONS
-    url: https://www.abhinav.co
-
+    url: post-certifications
 project_entries:
   - title: Project 1
     url: overview-post
