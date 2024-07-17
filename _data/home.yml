@@ -8,26 +8,26 @@ navbar_entries:
   - title: CERTIFICATIONS
     url: post-certifications
 project_entries:
-  - title: Project 1
+  - title: EXCEL
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation. 
 
-  - title: Project 2
+  - title: SQL
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management.
 
-  - title: Project 3
+  - title: PYTHON
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Seaborn, TensorFlow, Stats models.
 
-  - title: Project 4
+  - title: TABLEAU
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Data Visualization, Dashboard Design, Mapping, Performance optimization, Storytelling.
     highlight: WIP
 
-  - title: Project 5
+  - title: Machine Learning
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: Algorithms, Forecasting , Prediction
     highlight: WIP
 
   - title: Project 6
