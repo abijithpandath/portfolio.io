@@ -1,4 +1,4 @@
-# ![Aspiring Data Professional](images/piechart.png)
+# Aspiring Data Professional ![Piechart](images/pie_chart.png)
 **[abijithabi3416@gmail.com](mailto:abijithabi3416@gmail.com)** | 
 **[LinkedIn](https://www.linkedin.com/in/abijithpandath/)** |
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
