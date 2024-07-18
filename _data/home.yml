@@ -12,15 +12,15 @@ project_entries:
     url: overview-post
     desc: Exploratory Data Analysis, Data Preprocessing, Model Training, Model Evaluation. 
 
-  - title: Road Traffic Accident Analysis Using Machine Learning Algorithms 
+  - title: Machine Learning Algorithms 
     url: overview-post
     desc: Decision Tree, Random Forest and SVM
 
-  - title: Beetle Game Using Control Structures in Python
+  - title: Python Programming
     url: overview-post
     desc:  Fundamental Python programming concepts, Control Structures.
 
-  - title: Vertical Search Engine
+  - title: Information Retrieval 
     url: overview-post
     desc: Web Crawling, Web Scrapping, Feedback oriented
     
