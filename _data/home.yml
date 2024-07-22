@@ -13,7 +13,7 @@ project_entries:
     desc: Exploratory Data Analysis, Data Preprocessing, Model Training, Model Evaluation. 
 
   - title: Machine Learning  
-    url: overview-post
+    url: https://github.com/abijithpandath/Projects/tree/9d02f59118aabba0f269df74844ac984230cf992/Road%20Traffic%20Accident 
     desc: Decision Tree, Random Forest and SVM
 
   - title: Python Programming
