@@ -5,16 +5,16 @@
 ![Piechart](images/Picture5.png)
 ## TECHNICAL SKILLS
 
-> #### Excel:
+#### Excel:
 Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation.<br>
 
-> #### Python:
+#### Python:
 Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Seaborn, TensorFlow, Stats models.<br>
 
-> #### SQL:
+#### SQL:
 ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management.<br>
 
->#### Tableau:
+#### Tableau:
 Data Visualization, Dashboard Design, Mapping, Performance optimization, Storytelling.<br>
 
 ## EDUCATION					       		
