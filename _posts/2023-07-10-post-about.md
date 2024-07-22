@@ -6,16 +6,40 @@
 ## TECHNICAL SKILLS
 
 #### Excel:
-Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation.<br>
+
+- Pivot Tables
+- Charts
+- Formulas
+- Conditional Formatting
+- Data Analysis
+- Data Validation <br>
 
 #### Python:
-Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Seaborn, TensorFlow, Stats models.<br>
+
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+- Scikit-learn
+- Seaborn
+- TensorFlow
+- Stats models <br>
 
 #### SQL:
-ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management.<br>
+
+- ETL processes
+- Data Manipulation
+- Data Aggregation
+- Data Transformation
+- Database Management <br>
 
 #### Tableau:
-Data Visualization, Dashboard Design, Mapping, Performance optimization, Storytelling.<br>
+
+- Data Visualization
+- Dashboard Design
+- Dasboard Mapping
+- Performance optimization
+- Storytelling <br>
 
 ## EDUCATION					       		
 > |Coventry University, United Kingdom|M.S Data Science|2023-2024|
