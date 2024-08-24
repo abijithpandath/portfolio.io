@@ -8,29 +8,29 @@ navbar_entries:
   - title: CERTIFICATIONS
     url: post-certifications
 project_entries:
-  - title: Predictive Modeling 
-    url: https://github.com/abijithpandath/Projects/tree/9d02f59118aabba0f269df74844ac984230cf992/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction
-    desc: Exploratory Data Analysis, Data Preprocessing, Model Training, Model Evaluation. 
-
-  - title: Machine Learning  
-    url: https://github.com/abijithpandath/Projects/tree/9d02f59118aabba0f269df74844ac984230cf992/Road%20Traffic%20Accident 
-    desc: Decision Tree, Random Forest and SVM
-
-  - title: Python Programming
-    url: https://github.com/abijithpandath/Projects/tree/9d02f59118aabba0f269df74844ac984230cf992/Beetle%20Game
-    desc:  Fundamental Python programming concepts, Control Structures.
-
-  - title: Text Mining
-    url: https://github.com/abijithpandath/Projects/tree/9d02f59118aabba0f269df74844ac984230cf992/Vertical%20Search%20Engine
-    desc: Web Crawling, Web Scrapping, Feedback oriented
-    
-
-  - title: Tableau
+  - title: Data Cleaning & Transformation
     url: overview-post
-    desc: Data Visualization, Dashboard Design, Mapping, Performance optimization, Storytelling.
+    desc: Excel: Pivot Tables, Charts, Formulas, Conditional Formatting, Xlookup. 
+
+  - title: Data Analysis
+    url:  overview-post
+    desc: SQL, Excel : ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management & Dashboard
+    
+  - title: Data Visualization
+    url: overview-post
+    desc:  Tableau : Dashboard design, KPI Development, Calculation & Parameters, Statistical Analysis, Trend Analysis
+
+  - title: Data Science 
+    url: overview-post
+    desc: Machine Learning: Model Development, Model Training, Hyper Parameter Tuning, Model Deployment
     
 
-  - title: Excel
+  - title: Communication
+    url: overview-post
+    desc: Story Telling, Stakeholder Management, Attention to detail, Problem Solving
+    
+
+  - title: Other
     url: overview-post
     desc: Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation.
 
