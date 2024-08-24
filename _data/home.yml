@@ -10,19 +10,19 @@ navbar_entries:
 project_entries:
   - title: Data Cleaning & Transformation
     url: overview-post
-    desc: Excel: Pivot Tables, Charts, Formulas, Conditional Formatting, Xlookup. 
+    desc: Excel, Pivot Tables, Charts, Formulas, Conditional Formatting, Xlookup
 
   - title: Data Analysis
     url:  overview-post
-    desc: SQL, Excel : ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management & Dashboard
+    desc: SQL, Excel, ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management & Dashboard
     
   - title: Data Visualization
     url: overview-post
-    desc:  Tableau : Dashboard design, KPI Development, Calculation & Parameters, Statistical Analysis, Trend Analysis
+    desc:  Tableau, Dashboard design, KPI Development, Calculation & Parameters, Statistical Analysis, Trend Analysis
 
   - title: Data Science 
     url: overview-post
-    desc: Machine Learning: Model Development, Model Training, Hyper Parameter Tuning, Model Deployment
+    desc: Machine Learning, Model Development, Model Training, Hyper Parameter Tuning, Model Deployment
     
 
   - title: Communication
@@ -32,8 +32,7 @@ project_entries:
 
   - title: Other
     url: overview-post
-    desc: Pivot Tables and Charts, Formulas, Conditional Formatting, Data Analysis, Data Validation.
-
+    desc: Python, pandas, seaborn, matplotlib
 
 footer_entries:
   - title: Abijith's homepage
