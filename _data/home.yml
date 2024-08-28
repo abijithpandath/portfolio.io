@@ -12,7 +12,7 @@ navbar_entries:
     url: overview-post
 
   - title: CV
-   url: overview-post
+    url: overview-post
 project_entries:
   - title: Data Cleaning & Transformation
     url: overview-post
