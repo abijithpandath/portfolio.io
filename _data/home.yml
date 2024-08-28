@@ -20,17 +20,17 @@ project_entries:
     url: overview-post
     desc:  Tableau, Dashboard design, KPI Development, Calculation & Parameters, Statistical Analysis, Trend Analysis
 
-  - title: Data Science 
+  - title: Machine Learning & Data Science Solutions
     url: overview-post
     desc: Machine Learning, Model Development, Model Training, Hyper Parameter Tuning, Model Deployment
     
 
-  - title: Communication
+  - title: Course Works & University Projects
     url: overview-post
     desc: Story Telling, Stakeholder Management, Attention to detail, Problem Solving
     
 
-  - title: Other
+  - title: Foundational Knowledge 
     url: overview-post
     desc: Python, pandas, seaborn, matplotlib
 
