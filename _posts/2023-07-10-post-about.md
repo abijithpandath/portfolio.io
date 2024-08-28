@@ -1,4 +1,12 @@
 # ASPIRING DATA PROFESSIONAL 
+Recently graduated with a Master’s degree in Data Science from Coventry University and Level 7 Certificate in Strategic Management and Leadership Practice from Chartered Management Institute,UK. I specialize in leveraging data analytics and machine learning to derive actionable business insights. I am looking for data-focused roles in the technology and consulting industries. I have the right to work in UK.<br>
+<br>
+I specialize in transforming raw data into actionable insights that drive strategic decision-making. With a comprehensive skill set in Excel, Python, R, SQL, Tableau, and Power BI, alongside expertise in statistical modeling, I am adept at uncovering patterns and trends that contribute to business success.
+<br>
+<br>
+My strengths extend beyond technical proficiency to include effective communication with stakeholders. I excel in translating complex data findings into clear, actionable recommendations, ensuring that analytical insights align with and support organizational goals.
+With a keen product sense, I leverage data to enhance product strategies and drive innovation. I am committed to embracing new challenges and exploring innovative ways to harness the power of data to create valuable business opportunities.
+<br><br>
 **[abijithabi3416@gmail.com](mailto:abijithabi3416@gmail.com)** | 
 **[LinkedIn](https://www.linkedin.com/in/abijithpandath/)** |
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
