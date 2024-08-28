@@ -1,27 +1,28 @@
 title: ABIJITH PANDATH
 author: Abijith Pandath
 url: https://github.com/abijithpandath/portfolio.io/ # root address of the site
-description: > # description of the site (multiple lines allowed)
+description: >
   ### 👋 Hello, I'm Abijith ! <br>
+  
+  ✨ Turning data into actionable insights since I got my master's degree in Data Science ! <br>
+  💻 Specializing in machine learning, data analysis, and predictive modeling  <br>
+  📚 I'm currently deep-diving into real world data science projects and exploring solutions <br>
+  🛠️ Proficient with Excel, Python, R, SQL and tools like TensorFlow, scikit-learn, and  <br>
+  📊 I love visualizing complex data with matplotlib, seaborn, Tableau and Power BI  <br>
+  <br>
+  🎯 Goals <br> 
+  - Master advanced Data Science concepts and become a Data Professional  <br>
+  - Contribute to open-source data science projects  <br>
+  - Learn more  and earn more ! <br>
+  <br>
+  🎲 Fun fact  <br>
+  I am in Love with Data ❤️❤, you can find our adventures down below ! <br>
 
-   ✨ Turning data into actionable insights since I got my master's degree in Data Science ! <br>
-   💻 Specializing in machine learning, data analysis, and predictive modeling  <br>
-   📚 I'm currently deep-diving into real world data science projects and exploring solutions <br>
-   🛠️ Proficient with Excel, Python, R, SQL and tools like TensorFlow, scikit-learn, and  <br> 
-   📊 I love visualizing complex data with matplotlib, seaborn, Tableau and Power BI  <br>
-   <br>
- 🎯 Goals <br> 
- - Master advanced Data Science concepts and become a Data Professional  <br>
- - Contribute to open-source data science projects  <br>
- - Learn more  and earn more ! <br>
- <br>
- 🎲 Fun fact  <br>
-    I am in Love with Data ❤️❤, you can find our adventures down below ! <br>
 permalink: /:slug
   
 favicon: "./logo.png" # relative path to site's favicon
 
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+# theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
 theme_config:
@@ -31,7 +32,7 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
-  show_footer: true # show footer links in home page,add in _data/home.yml
+  show_footer: true # show footer links in home page, add in _data/home.yml
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
@@ -45,7 +46,7 @@ theme_config:
     title_projects: Portfolio
     title_misc_list: Details
     title_blog: Blog
-    #title_old_projects: Old Projects
+    # title_old_projects: Old Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
