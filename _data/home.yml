@@ -30,7 +30,7 @@ project_entries:
     desc: Story Telling, Stakeholder Management, Attention to detail, Problem Solving
     
 
-  - title: Foundational Knowledge 
+  - title: Data Science Essentials 
     url: overview-post
     desc: Python, pandas, seaborn, matplotlib
 
