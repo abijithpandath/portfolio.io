@@ -7,6 +7,9 @@ navbar_entries:
 
   - title: CERTIFICATIONS
     url: post-certifications
+
+  - title: BLOG
+    url: overview-post
 project_entries:
   - title: Data Cleaning & Transformation
     url: overview-post
@@ -27,7 +30,7 @@ project_entries:
 
   - title: Course Works & University Projects
     url: overview-post
-    desc: Story Telling, Stakeholder Management, Attention to detail, Problem Solving
+    desc: Python, SQL, R, Tableu
     
 
   - title: Data Science Essentials 
