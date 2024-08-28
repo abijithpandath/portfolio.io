@@ -65,3 +65,9 @@ With a keen product sense, I leverage data to enhance product strategies and dri
 - Completed a simulation focussing on how data science is a critical component of British Airways success. 
 - Scraped and analysed customer review data to uncover findings. 
 - Built a predictive model to understand factors that influence buying behaviour.
+
+## LEADERSHIP EXPERIENCE 
+**Chartered Management Institute Certificate in Strategic Management and Leadership Practice – Level 7**
+- Developed strategic plans using data-driven analysis to implement initiatives aimed at achieving organizational objectives.
+- Led organizational change management efforts and risk analysis by driving innovation initiatives through structured change processes.
+- Demonstrated proven leadership abilities by inspiring teams and fostering collaboration through effective communication and team-building strategies.
