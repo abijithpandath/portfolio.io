@@ -2,15 +2,21 @@ title: ABIJITH PANDATH
 author: Abijith Pandath
 url: https://github.com/abijithpandath/portfolio.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Having graduated with a Master’s degree in Data Science from Coventry University and a Level 7 certificate in Strategic Management and Leadership Practice from Chartered Management Institute, I specialize in leveraging data analytics and machine learning to derive actionable business insights. I am looking for data-focused roles in the technology and consulting industries. I have the right to work in UK.
-  <br>
-  <br> I specialize in transforming raw data into actionable insights that drive strategic decision-making. With a comprehensive skill set in Python, R, SQL, Tableau, and Power BI, alongside expertise in statistical modeling, I am adept at uncovering patterns and trends that contribute to business success.
-  <br>
-  <br> My strengths extend beyond technical proficiency to include effective communication with stakeholders.I excel in translating complex data findings into clear, actionable recommendations, ensuring that analytical insights align with and support organizational goals.
+  ### 👋 Hello, I'm Abijith ! <br>
 
-  With a keen product sense, I leverage data to enhance product strategies and drive innovation. I am committed to embracing new challenges and exploring innovative ways to harness the power of data to create valuable business opportunities.
-
-  <hr>
+ ✨ Turning data into actionable insights since I got my master's degree in Data Science ! <br>
+ 💻 Specializing in machine learning, data analysis, and predictive modeling  <br>
+ 📚 I'm currently deep-diving into real world data science projects and exploring solutions <br>
+ 🛠️ Proficient with Excel, Python, R, SQL and tools like TensorFlow, scikit-learn, and  <br> 
+ 📊 I love visualizing complex data with matplotlib, seaborn, Tableau and Power BI  <br>
+ <br>
+ 🎯 Goals <br> 
+ - Master advanced Data Science concepts and become a Data Professional  <br>
+ - Contribute to open-source data science projects  <br>
+ - Learn more  and earn more ! <br>
+ <br>
+ 🎲 Fun fact  <br>
+    I am in Love with Data ❤️❤, you can find our adventures down below ! <br>
 permalink: /:slug
   
 favicon: "./logo.png" # relative path to site's favicon
