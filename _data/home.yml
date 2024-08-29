@@ -27,7 +27,7 @@ project_entries:
     desc:  Tableau, Dashboard design, KPI Development, Calculation & Parameters, Statistical Analysis, Trend Analysis
 
   - title: Machine Learning & Data Science Solutions
-    url: overview-post
+    url: post-two
     desc: Machine Learning, Model Development, Model Training, Hyper Parameter Tuning, Model Deployment
     
 
