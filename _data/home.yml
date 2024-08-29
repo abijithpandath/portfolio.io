@@ -19,7 +19,7 @@ project_entries:
     desc: Excel, Pivot Tables, Charts, Formulas, Conditional Formatting, Xlookup
 
   - title: Data Analysis
-    url:  overview-post
+    url:  https://github.com/abijithpandath/Projects/tree/main/Excel%20Dashboard
     desc: SQL, Excel, ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management & Dashboard
     
   - title: Data Visualization
