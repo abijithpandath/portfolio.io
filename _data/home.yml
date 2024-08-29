@@ -37,7 +37,7 @@ project_entries:
     
 
   - title: Data Science Essentials 
-    url: overview-post
+    url: post-basics
     desc: Basic Python Programms, Machine Learning Algorithms and Implementations
 
 footer_entries:
