@@ -33,12 +33,12 @@ project_entries:
 
   - title: Course Works & University Projects
     url: post-three
-    desc: Python, SQL, R, Tableu
+    desc: Python, SQL, R & Tableu Assignments completed during at Coventry University
     
 
   - title: Data Science Essentials 
     url: overview-post
-    desc: Basic, Intermediate, Advanced 
+    desc: Basic Python Programms, Machine Learning Algorithms and Implementations
 
 footer_entries:
   - title: Abijith's homepage
