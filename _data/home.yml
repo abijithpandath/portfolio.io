@@ -23,7 +23,7 @@ project_entries:
     desc: SQL, Excel, ETL processes, Data Manipulation, Data Aggregation, Data Transformation, Database Management & Dashboard
     
   - title: Data Visualization
-    url: overview-post
+    url: post-one
     desc:  Tableau, Dashboard design, KPI Development, Calculation & Parameters, Statistical Analysis, Trend Analysis
 
   - title: Machine Learning & Data Science Solutions
