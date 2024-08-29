@@ -1,0 +1,26 @@
+# Essential Python Programs for Data Scientists
+
+## 1. Read and Display a CSV File
+```python
+import pandas as pd
+
+# Read CSV file using a relative path
+df = pd.read_csv('paste your relative path')
+
+# Display the first few rows
+print(df.head())
+```
+
+
+## Basic Data Cleaning (Handling Missing Values)
+import pandas as pd
+```python
+# Read CSV file using a relative path
+df = pd.read_csv('paste your relative path')
+
+# Fill missing values with the mean of the column
+df.fillna(df.mean(), inplace=True)
+
+# Display the cleaned data
+print(df.head())
+```
