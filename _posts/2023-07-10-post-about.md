@@ -56,8 +56,8 @@ With a keen product sense, I leverage data to enhance product strategies and dri
 <br>
 
 ## PROFESSIONAL WORK EXPERIENCE
-### Tata Consultancy Services (Chennai, India)
-Assistant System Engineer Trainee (Jan 2022 – Jan 2023)
+**Tata Consultancy Services (Chennai, India)**
+**Assistant System Engineer Trainee (Jan 2022 – Jan 2023)**
 - Developed strategies using agile methodologies and MBSE (Model Based System Engineering) to ensure systems 
 were designed and integrated effectively, resulting in a 15% increase in customer satisfaction and a 10% 
 reduction in system downtime
