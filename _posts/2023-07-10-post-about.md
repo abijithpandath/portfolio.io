@@ -53,8 +53,26 @@ With a keen product sense, I leverage data to enhance product strategies and dri
 ## EDUCATION					       		
 - Coventry University, United Kingdom - M.S Data Science - 2023-2024|
 - APJ Abdul Kalam Kerala Technological University, India - B Tech Computer Science and Engineering - 2016-2020
+<br>
 
+## PROFESSIONAL WORK EXPERIENCE
 
+### Tata Consultancy Services (Chennai, India)
+#### Assistant System Engineer Trainee (Jan 2022 – Jan 2023)
+- Developed strategies using agile methodologies and MBSE (Model Based System Engineering) to ensure systems 
+were designed and integrated effectively, resulting in a 15% increase in customer satisfaction and a 10% 
+reduction in system downtime
+- Proactively delivered comprehensive reports and presentations using PowerPoint and Excel to support business 
+decisions, enhancing communication efficiency with both technical and non-technical stakeholders.
+- Captured and analysed requirements to understand customer and business needs, leading to a 20% 
+improvement in system functionality alignment with user requirements.
+- Collaborated with Product Managers, Business Analysts and Development team to integrate customer feedback 
+into CRM systems and maintaining interactive dashboards to derive actionable insights to inform product 
+decisions.
+- Defined verification and validation approach to achieve system certification, resulting in a 95% success rate in 
+system acceptance tests thereby provided systems engineering support to project and functional teams, which 
+enhanced project delivery timelines by 15%
+<br>
 ## VIRTUAL INTERNSHIP EXPERIENCE
 **JPMorgan Chase & Co Agile Job Simulation on Forage**
 - Drafted eight user stories using Trello and prioritized them by estimating the relative level of effort required. 
