@@ -7,7 +7,7 @@ I specialize in transforming raw data into actionable insights that drive strate
 My strengths extend beyond technical proficiency to include effective communication with stakeholders. I excel in translating complex data findings into clear, actionable recommendations, ensuring that analytical insights align with and support organizational goals.
 With a keen product sense, I leverage data to enhance product strategies and drive innovation. I am committed to embracing new challenges and exploring innovative ways to harness the power of data to create valuable business opportunities.
 <br><br>
-**[abijithabi3416@gmail.com](mailto:abijithabi3416@gmail.com)** | 
+**[abijithpandath@gmail.com](mailto:abijithpandath@gmail.com)** | 
 **[LinkedIn](https://www.linkedin.com/in/abijithpandath/)** |
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
 
