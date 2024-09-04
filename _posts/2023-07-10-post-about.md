@@ -52,8 +52,7 @@ With a keen product sense, I leverage data to enhance product strategies and dri
 
 ## EDUCATION					       		
 - Coventry University, United Kingdom - M.S Data Science - 2023-2024
-- APJ Abdul Kalam Kerala Technological University, India - B Tech Computer Science and Engineering - 2016-2020
-  
+- APJ Abdul Kalam Kerala Technological University, India - B Tech Computer Science and Engineering - 2016-2020   
 <br>
 
 ## PROFESSIONAL WORK EXPERIENCE
