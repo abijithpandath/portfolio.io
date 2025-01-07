@@ -12,7 +12,7 @@ navbar_entries:
     url: post-four
 
   - title: CV
-    url: https://drive.google.com/drive/u/0/folders/1XezTPWNGVUIXS0au5Y9hWMGUz6UnwOZk
+    url: https://drive.google.com/file/d/1hchzc2ZYOnBn2qEivaPPAcZOB0HqUn3j/view?usp=sharing
 project_entries:
   - title: Data Cleaning & Transformation
     url: https://github.com/abijithpandath/Projects/tree/main/Sales%20Analysis%20Using%20Excel
