@@ -1,12 +1,33 @@
 # ASPIRING DATA PROFESSIONAL 
-Recently graduated with a Master’s degree in Data Science from Coventry University and Level 7 Certificate in Strategic Management and Leadership Practice from Chartered Management Institute,UK. I specialize in leveraging data analytics and machine learning to derive actionable business insights. I am looking for data-focused roles in the technology and consulting industries. I have the right to work in UK.<br>
+Curiosity has always been my compass—and data, my favorite language to explore the world.<br>
 <br>
-I specialize in transforming raw data into actionable insights that drive strategic decision-making. With a comprehensive skill set in Excel, Python, R, SQL, Tableau, and Power BI, alongside expertise in statistical modeling, I am adept at uncovering patterns and trends that contribute to business success.
+With a Master's in Data Science from Coventry University (UK, 2024) and a Bachelor's in Computer Science and Engineering (2020), my journey has been rooted in STEM, driven by a deep analytical mindset and a desire to solve real-world problems through data.
 <br>
 <br>
-My strengths extend beyond technical proficiency to include effective communication with stakeholders. I excel in translating complex data findings into clear, actionable recommendations, ensuring that analytical insights align with and support organizational goals.
-With a keen product sense, I leverage data to enhance product strategies and drive innovation. I am committed to embracing new challenges and exploring innovative ways to harness the power of data to create valuable business opportunities.
+Professionally, I began at Tech Mahindra as a Technical Support Associate, where I learned the value of precision, responsiveness, and customer-focused troubleshooting. I then joined Tata Consultancy Services (TCS) as an Assistant System Engineer, contributing to scalable IT solutions while enhancing my skills in collaboration, adaptability, and structured problem-solving.
 <br><br>
+Throughout this journey, I’ve built a strong foundation in tools like SQL, Excel, Python, Tableau, Word, and PowerPoint. My portfolio includes hands-on projects in:
+<br><br>
+- Data Cleaning & Transformation using Excel and SQL
+<br><br>
+- Data Analysis via SQL, ETL processes, and dashboards
+<br><br>
+- Visualization & KPI Design in Tableau
+<br><br>
+At Coventry, I engaged in rigorous coursework in Python, SQL, R, and Tableau, while also pursuing industry-recognized certifications:
+<br><br>
+- Chartered Management Institute – Level 7 Certificate in Strategic Management & Leadership
+<br><br>
+- Cisco Networking Academy – Data Analytics Essentials
+<br><br>
+- AWS Cloud Practitioner Essentials
+<br><br>
+- Forage Simulations – British Airways (Data Science) & JP Morgan (Agile)
+<br><br>
+I bring with me a suite of transferable skills: critical thinking, attention to detail, leadership, time management, research, and a collaborative approach.
+<br><br>
+Currently, I’m diving deeper into AI and ML, driven by a mindset to learn, apply, and grow—transforming raw data into meaningful impact.
+
 **[abijithpandath@gmail.com](mailto:abijithpandath@gmail.com)** | 
 **[LinkedIn](https://www.linkedin.com/in/abijithpandath/)** |
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
@@ -14,49 +35,18 @@ With a keen product sense, I leverage data to enhance product strategies and dri
 
 ## TECHNICAL SKILLS
 
-#### Excel:
+- **Languages/Frameworks**: Python, R Programming, SQL, Microsoft SQL Server, MySQL, Oracle SQL. 
+- **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly, BeautifulSoup, Scrapy, Hadoop. 
+- **Tools and Technologies**: Tableau, AWS, Excel, Git, VS Code, Word, Google Sheets, PowerPoint, R Studio, Alteryx. 
+- **Data & Analytics Expertise: Data Analysis, ETL Processes, Data Governance, Data Modeling, Data Pipeline, APIs 
 
-- Pivot Tables
-- Charts
-- Formulas
-- Conditional Formatting
-- Data Analysis
-- Data Validation <br>
-
-#### Python:
-
-- Pandas
-- NumPy
-- SciPy
-- Matplotlib
-- Scikit-learn
-- Seaborn
-- TensorFlow
-- Stats models <br>
-
-#### SQL:
-
-- ETL processes
-- Data Manipulation
-- Data Aggregation
-- Data Transformation
-- Database Management <br>
-
-#### Tableau:
-
-- Data Visualization
-- Dashboard Design
-- Dasboard Mapping
-- Performance optimization
-- Storytelling <br>
-
-## EDUCATION					       		
-- Coventry University, United Kingdom - M.S Data Science - 2023-2024
+## EDUCATION					       		**
+- Coventry University, United Kingdom - M.S Data Science - **2023-2024**
 - APJ Abdul Kalam Kerala Technological University, India - B Tech Computer Science and Engineering - 2016-2020   
 <br>
 
 ## PROFESSIONAL WORK EXPERIENCE
-**Tata Consultancy Services (Chennai, India)** <br>
+**Tata Consultancy Services (Chennai, India)** <br> 
 **Assistant System Engineer Trainee (Jan 2022 – Jan 2023)**
 - Developed strategies using agile methodologies and MBSE (Model Based System Engineering) to ensure systems 
 were designed and integrated effectively, resulting in a 15% increase in customer satisfaction and a 10% 
