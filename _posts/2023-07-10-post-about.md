@@ -9,25 +9,20 @@ Professionally, I began at Tech Mahindra as a Technical Support Associate, where
 Throughout this journey, I’ve built a strong foundation in tools like SQL, Excel, Python, Tableau, Word, and PowerPoint. My portfolio includes hands-on projects in:
 <br><br>
 - Data Cleaning & Transformation using Excel and SQL
-<br><br>
 - Data Analysis via SQL, ETL processes, and dashboards
-<br><br>
 - Visualization & KPI Design in Tableau
 <br><br>
 At Coventry, I engaged in rigorous coursework in Python, SQL, R, and Tableau, while also pursuing industry-recognized certifications:
 <br><br>
 - Chartered Management Institute – Level 7 Certificate in Strategic Management & Leadership
-<br><br>
 - Cisco Networking Academy – Data Analytics Essentials
-<br><br>
 - AWS Cloud Practitioner Essentials
-<br><br>
 - Forage Simulations – British Airways (Data Science) & JP Morgan (Agile)
 <br><br>
 I bring with me a suite of transferable skills: critical thinking, attention to detail, leadership, time management, research, and a collaborative approach.
-<br><br>
-Currently, I’m diving deeper into AI and ML, driven by a mindset to learn, apply, and grow—transforming raw data into meaningful impact.
 
+Currently, I’m diving deeper into AI and ML, driven by a mindset to learn, apply, and grow—transforming raw data into meaningful impact.
+<br><br>
 **[abijithpandath@gmail.com](mailto:abijithpandath@gmail.com)** | 
 **[LinkedIn](https://www.linkedin.com/in/abijithpandath/)** |
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
@@ -40,11 +35,12 @@ Currently, I’m diving deeper into AI and ML, driven by a mindset to learn, app
 - **Tools and Technologies**: Tableau, AWS, Excel, Git, VS Code, Word, Google Sheets, PowerPoint, R Studio, Alteryx. 
 - **Data & Analytics Expertise: Data Analysis, ETL Processes, Data Governance, Data Modeling, Data Pipeline, APIs 
 
-## EDUCATION					       		**
-- Coventry University, United Kingdom - M.S Data Science - **2023-2024**
-- APJ Abdul Kalam Kerala Technological University, India - B Tech Computer Science and Engineering - 2016-2020   
+## EDUCATION					       		
+- Coventry University,United Kingdom
+   - M.S Data Science - **2023-2024**
+- APJ Abdul Kalam Kerala Technological University, India
+-  - B Tech Computer Science and Engineering - 2016-2020   
 <br>
-
 ## PROFESSIONAL WORK EXPERIENCE
 **Tata Consultancy Services (Chennai, India)** <br> 
 **Assistant System Engineer Trainee (Jan 2022 – Jan 2023)**
