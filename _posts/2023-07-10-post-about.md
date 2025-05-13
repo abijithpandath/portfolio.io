@@ -15,11 +15,12 @@ At Coventry, I engaged in rigorous coursework in Python, SQL, R, and Tableau, wh
 - Chartered Management Institute – Level 7 Certificate in Strategic Management & Leadership
 - Cisco Networking Academy – Data Analytics Essentials
 - AWS Cloud Practitioner Essentials
-- Forage Simulations – British Airways (Data Science) & JP Morgan (Agile)
-<br>
+- Forage Simulations – British Airways (Data Science) & JP Morgan (Agile)<br>
+
 I bring with me a suite of transferable skills: critical thinking, attention to detail, leadership, time management, research, and a collaborative approach.
 Currently, I’m diving deeper into AI and ML, driven by a mindset to learn, apply, and grow—transforming raw data into meaningful impact.
 <br>
+
 **[abijithpandath@gmail.com](mailto:abijithpandath@gmail.com)** | 
 **[LinkedIn](https://www.linkedin.com/in/abijithpandath/)** |
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
