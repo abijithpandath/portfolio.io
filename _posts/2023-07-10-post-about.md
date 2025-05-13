@@ -8,10 +8,9 @@ Throughout this journey, I’ve built a strong foundation in tools like SQL, Exc
 <br>
 - Data Cleaning & Transformation using Excel and SQL
 - Data Analysis via SQL, ETL processes, and dashboards
-- Visualization & KPI Design in Tableau
-<br>
+- Visualization & KPI Design in Tableau <br>
+
 At Coventry, I engaged in rigorous coursework in Python, SQL, R, and Tableau, while also pursuing industry-recognized certifications:
-<br>
 - Chartered Management Institute – Level 7 Certificate in Strategic Management & Leadership
 - Cisco Networking Academy – Data Analytics Essentials
 - AWS Cloud Practitioner Essentials
