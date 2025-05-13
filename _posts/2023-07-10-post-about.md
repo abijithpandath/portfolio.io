@@ -1,5 +1,5 @@
 # ASPIRING DATA PROFESSIONAL 
-Curiosity has always been my compass—and data, my favorite language to explore the world.<br>
+
 With a Master's in Data Science from Coventry University (UK, 2024) and a Bachelor's in Computer Science and Engineering (2020), my journey has been rooted in STEM, driven by a deep analytical mindset and a desire to solve real-world problems through data.
 <br>
 Professionally, I began at Tech Mahindra as a Technical Support Associate, where I learned the value of precision, responsiveness, and customer-focused troubleshooting. I then joined Tata Consultancy Services (TCS) as an Assistant System Engineer, contributing to scalable IT solutions while enhancing my skills in collaboration, adaptability, and structured problem-solving.
