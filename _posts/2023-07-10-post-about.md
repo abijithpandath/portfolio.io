@@ -36,9 +36,9 @@ Currently, I’m diving deeper into AI and ML, driven by a mindset to learn, app
 - Coventry University,United Kingdom
    - M.S Data Science - **2023-2024**
 - APJ Abdul Kalam Kerala Technological University, India
--  - B Tech Computer Science and Engineering - 2016-2020   
-<br>
-## PROFESSIONAL WORK EXPERIENCE
+-  - B Tech Computer Science and Engineering - 2016-2020   <br>
+
+## PROFESSIONAL WORK EXPERIENCE <br>
 **Tata Consultancy Services (Chennai, India)** <br> 
 **Assistant System Engineer Trainee (Jan 2022 – Jan 2023)**
 - Developed strategies using agile methodologies and MBSE (Model Based System Engineering) to ensure systems 
