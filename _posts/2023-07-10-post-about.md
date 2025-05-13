@@ -1,28 +1,25 @@
 # ASPIRING DATA PROFESSIONAL 
 Curiosity has always been my compass—and data, my favorite language to explore the world.<br>
-<br>
 With a Master's in Data Science from Coventry University (UK, 2024) and a Bachelor's in Computer Science and Engineering (2020), my journey has been rooted in STEM, driven by a deep analytical mindset and a desire to solve real-world problems through data.
 <br>
-<br>
 Professionally, I began at Tech Mahindra as a Technical Support Associate, where I learned the value of precision, responsiveness, and customer-focused troubleshooting. I then joined Tata Consultancy Services (TCS) as an Assistant System Engineer, contributing to scalable IT solutions while enhancing my skills in collaboration, adaptability, and structured problem-solving.
-<br><br>
+<br>
 Throughout this journey, I’ve built a strong foundation in tools like SQL, Excel, Python, Tableau, Word, and PowerPoint. My portfolio includes hands-on projects in:
-<br><br>
+<br>
 - Data Cleaning & Transformation using Excel and SQL
 - Data Analysis via SQL, ETL processes, and dashboards
 - Visualization & KPI Design in Tableau
-<br><br>
+<br>
 At Coventry, I engaged in rigorous coursework in Python, SQL, R, and Tableau, while also pursuing industry-recognized certifications:
-<br><br>
+<br>
 - Chartered Management Institute – Level 7 Certificate in Strategic Management & Leadership
 - Cisco Networking Academy – Data Analytics Essentials
 - AWS Cloud Practitioner Essentials
 - Forage Simulations – British Airways (Data Science) & JP Morgan (Agile)
-<br><br>
+<br>
 I bring with me a suite of transferable skills: critical thinking, attention to detail, leadership, time management, research, and a collaborative approach.
-
 Currently, I’m diving deeper into AI and ML, driven by a mindset to learn, apply, and grow—transforming raw data into meaningful impact.
-<br><br>
+<br>
 **[abijithpandath@gmail.com](mailto:abijithpandath@gmail.com)** | 
 **[LinkedIn](https://www.linkedin.com/in/abijithpandath/)** |
 **[+44 7342663982](https://wa.me/message/NGSD2WRRP5W5F1)**
@@ -33,7 +30,7 @@ Currently, I’m diving deeper into AI and ML, driven by a mindset to learn, app
 - **Languages/Frameworks**: Python, R Programming, SQL, Microsoft SQL Server, MySQL, Oracle SQL. 
 - **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly, BeautifulSoup, Scrapy, Hadoop. 
 - **Tools and Technologies**: Tableau, AWS, Excel, Git, VS Code, Word, Google Sheets, PowerPoint, R Studio, Alteryx. 
-- **Data & Analytics Expertise: Data Analysis, ETL Processes, Data Governance, Data Modeling, Data Pipeline, APIs 
+- **Data & Analytics Expertise**: Data Analysis, ETL Processes, Data Governance, Data Modeling, Data Pipeline, APIs 
 
 ## EDUCATION					       		
 - Coventry University,United Kingdom
